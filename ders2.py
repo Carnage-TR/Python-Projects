@@ -1,0 +1,5 @@
+print("Hesap makinesi")
+print("Toplama")
+print("Çıkarma")
+print("Çarpma")
+print("Bölme")
